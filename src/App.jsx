@@ -82,7 +82,7 @@ const data= [
   },
   {
     "brand": "PharmEasy",
-    "logo": "https://imgs.search.brave.com/XUqi1uG6tkraI33eZVK2prcTehuKMSJADClFHZ9ZQCg/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90ZWNo/c3RvcnkuaW4vd3At/Y29udGVudC91cGxv/YWRzLzIwMjIvMDIv/UGhhcm1FYXN5Lmpw/Zw",
+    "logo": "https://cdn.brandfetch.io/id8rR83Ivq/w/400/h/400/theme/dark/icon.jpeg?c=1dxbfHSJFAPEGdCLU4o5B",
     "companyName": "API Holdings Ltd",
     "about": "PharmEasy is an Indian e-pharmacy platform that provides medicines, diagnostic tests, and telehealth services, aiming to digitize healthcare delivery.",
     "ipoDetails": {
@@ -130,7 +130,7 @@ const data= [
   },
   {
     "brand": "Swiggy",
-    "logo": "https://www.bajajenergy.com/bajajenergy_assets/s3fs-public/images/Bajaj%20Energy_300x118_Png.png",
+    "logo": "https://cdn.brandfetch.io/ideeTxiKQK/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B",
     "companyName": "Bundl Technologies Pvt Ltd",
     "about": "Swiggy is India's leading food delivery platform, also expanding into grocery delivery and quick commerce services.",
     "ipoDetails": {
